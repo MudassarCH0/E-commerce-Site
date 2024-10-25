@@ -40,16 +40,15 @@ The project involved analyzing patterns in activity log using EDA (exploratory d
 \
 ***Result***<br>
 
-* Top 10 neighborhoods were at coast line or highly populated area
-* On weekend the rentals were booked at full capacity
-* Highest revenue correlated with population
-* Few neighborhoods with less reviews and high revenue were around coastline 
+* Observed 10% conversion from 10,453 users
+* retention decreased monthly
+  
+![image](https://github.com/user-attachments/assets/f6317415-adc0-4c8f-9acf-c8ba35b580fa)
 
 \
 ***Recomnendation***<br>
-* Neighborhoods around coastline are good for investment reguardless of reviews
-* More reviews means more foot traffic and high revenue
-* Weeked specials can help to generate high revenue<br><br> 
+* Client should streamline the site 
+* Client should force incentive for users to purchase items added to shopping cart<br><br> 
 
 > [!Note]
 > [Project Link](https://docs.google.com/spreadsheets/d/1E_cc74tUvhwINxqVt1h_fB0HL7NhgmaR3zlWQiLE8pE/edit?gid=38637670#gid=38637670)
