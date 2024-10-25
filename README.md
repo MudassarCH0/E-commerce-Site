@@ -41,11 +41,8 @@ The project involved analyzing patterns in activity log using EDA (exploratory d
 ***Result***<br>
 
 * Observed 10% conversion out of 10,453 users
-* Total conversion funnel shows step-by-step normal process
-* Retention decreased each month<br>
-
-
-
+* Total conversion funnel showed step-by-step normal process
+* Retention decreased each month<br><br>
 
   ![image](https://github.com/user-attachments/assets/f6317415-adc0-4c8f-9acf-c8ba35b580fa)
 
