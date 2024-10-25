@@ -32,18 +32,19 @@ The project involved analyzing patterns in activity log using EDA (exploratory d
 \
 ***Execution***<br>
 
-* Data Processing: explore data, backup data, clean data, filter data, alter data
-* Key Performance Indicators (KPIs): Occupancy Rate, Property Sizes (Bedrooms), Top 10 Neighborhoods, Weekend Occupancy, Revenue Estimation, and Listing Analysis
+* Data Processing: explore data, backup data, filter data, create data
+* Key Performance Indicator (KPI): None
 * Visualization: Tables
-* Process: pivot tables, v-lookups, conversion funnels, cohort analysis, retention analysis
+* Process: pivot tables, v-lookups, built a conversion funnel, calculated first purchase dates, grouped the users and transactions by month for the cohort analysis, used retention formula to calculate the retention rate for each cohort at each cohort age
 
 \
 ***Result***<br>
 
-* Observed 10% conversion from 10,453 users
-* retention decreased monthly
-  
-![image](https://github.com/user-attachments/assets/f6317415-adc0-4c8f-9acf-c8ba35b580fa)
+* Observed 10% conversion out of 10,453 users
+* Total conversion funnel shows step-by-step normal process
+* Retention decreased each month
+
+  ![image](https://github.com/user-attachments/assets/f6317415-adc0-4c8f-9acf-c8ba35b580fa)
 
 \
 ***Recomnendation***<br>
