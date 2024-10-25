@@ -44,7 +44,7 @@ The project involved analyzing patterns in activity log using EDA (exploratory d
 * Total conversion funnel showed step-by-step normal process
 * Retention decreased each month<br><br>
 
-  ![image](https://github.com/user-attachments/assets/f6317415-adc0-4c8f-9acf-c8ba35b580fa)
+![image](https://github.com/user-attachments/assets/f6317415-adc0-4c8f-9acf-c8ba35b580fa)
 
 \
 ***Recomnendation***<br>
