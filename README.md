@@ -45,6 +45,8 @@ The project involved analyzing patterns in activity log using EDA (exploratory d
 * Retention decreased each month<br>
 
 
+
+
   ![image](https://github.com/user-attachments/assets/f6317415-adc0-4c8f-9acf-c8ba35b580fa)
 
 \
